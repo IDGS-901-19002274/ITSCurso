@@ -1,3 +1,5 @@
 .clase{
     display: block;
+    align-items: center;
+    color: red;
 }
